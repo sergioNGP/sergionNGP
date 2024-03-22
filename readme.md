@@ -6,10 +6,4 @@ hola me gusta mucho el kpop y amo amis perros
 
 # Contac me
 
-tiktok , instragram. pueden contactarme mediante esos medios
-
-## technologies
-
-- HTML
-- CSS
-- JS
+hacer el cierre de la presentacion, invitando a contactar....
